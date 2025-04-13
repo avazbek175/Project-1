@@ -15,8 +15,13 @@
   --white-color: #fdfffc;
   --green-color: #0abf53;
   --green-color-bg: rgb(10 191 83 / 17%);
-  --blue-color: #6168ff
+  --blue-color: #6168ff;
+  --blue-color-bg: rgb(97 104 255 / 9%); 
+  --border-color-light: rgb(255 255 255 / 0.2);
+  --box-shadow: 0 1rem 3rem rgb(0 0 0 / 12%);
+  --dark-layer-color: linear-gradient(to top, rgba(21 21 21 / 67%) , rgba(23 23 23 / 17%));
   
+
   /* Font Familiy */
   --primatiy-font: 'Poppins', sans-serif;
 }
