@@ -2,8 +2,18 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-    <div>
-      <h1>Navbar</h1>
-    </div>
+    <header id='site-header'>
+      <div className="container">
+        <nav className='navbar' id='Navbar'>
+          <div className="navbar_brand">
+            <a href="#">
+              <img src="" alt="Logo" />
+            </a>
+          </div>
+
+        </nav>
+      </div>
+     
+    </header>
   )
 }
